@@ -2557,3 +2557,1090 @@ Make sure 'BP_Bumper' has been compiled for  Get Ball
 [2024.01.01-05.30.31:104][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.01.01-05.30.33:096][460]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2024.01.01-05.30.33:096][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.33.51:003][595]LogCurveEditor: Warning: A key on CurveFloat_0 could not be moved because there was already a key at that time.
+[2024.01.01-05.34.52:755][665]LogCurveEditor: Warning: A key on CurveFloat_0 could not be moved because there was already a key at that time.
+[2024.01.01-05.35.37:181][841]LogEditorTransaction: Undo Select Interpolation Mode
+[2024.01.01-05.35.37:264][841]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 2ADF2506DB29C917E2C542567C61B8F854E70FDA), compiling. 
+[2024.01.01-05.35.37:290][841]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.01-05.35.37:290][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.37:291][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.37:339][843]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.01-05.35.37:339][843]LogShaderCompilers: Display: Total job queries 817, among them cache hits 619 (75.76%)
+[2024.01.01-05.35.37:339][843]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 98 distinct outputs (52.13%)
+[2024.01.01-05.35.37:339][843]LogShaderCompilers: Display: RAM used: 0.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2024.01.01-05.35.37:339][843]LogShaderCompilers: Display: ================================================
+[2024.01.01-05.35.37:354][844]MaterialEditorStats: Base pass shader: 124 instructions
+[2024.01.01-05.35.37:354][844]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2024.01.01-05.35.37:354][844]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.01.01-05.35.37:354][844]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.01-05.35.37:354][844]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.37:355][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.37:515][853]LogEditorTransaction: Undo Select Interpolation Mode
+[2024.01.01-05.35.37:590][853]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 0296EAD50D4319AA8F7D189EC81C000A0D2BCF02), compiling. 
+[2024.01.01-05.35.37:616][853]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.01-05.35.37:616][853]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.37:616][853]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: Base pass shader: 124 instructions
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.37:691][856]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.38:132][909]LogEditorTransaction: Undo Select Interpolation Mode
+[2024.01.01-05.35.38:207][909]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: F53FF45E3F4473FE1D294096FFA3E2E4015C529C), compiling. 
+[2024.01.01-05.35.38:233][909]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.01-05.35.38:233][909]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.38:233][909]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.38:262][912]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.01-05.35.38:262][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.38:262][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: Base pass shader: 124 instructions
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.35.38:271][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.38.25:258][850]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.38.25:333][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2024.01.01-05.38.45:002][129]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.38.45:007][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.38.45:007][129]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:38:45 am)
+[2024.01.01-05.38.45:007][129]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.38.45:011][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004326s)
+[2024.01.01-05.38.45:012][129]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.38.45:012][129]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2024.01.01-05.38.45:012][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.005505s)
+[2024.01.01-05.38.45:066][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.01.01-05.38.45:074][129]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.38.45:074][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.38.45:074][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.38.45:075][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.38.45:075][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.38.45:075][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.38.45:075][129]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.38.45:079][129]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.38.45:079][129]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.38.45:089][129]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.38.45:090][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.38.45:090][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.38.45:090][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.38.45:090][129]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.38.45:090][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.38.45:090][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.38.45:092][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.38.45:092][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.38.45:092][129]LogInit: FAudioDevice initialized.
+[2024.01.01-05.38.45:092][129]LogAudio: Display: Audio Device (ID: 12) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.38.45:101][129]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.38.45:102][129]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.38.45
+[2024.01.01-05.38.45:103][129]LogWorld: Bringing up level for play took: 0.001731
+[2024.01.01-05.38.45:103][129]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2024.01.01-05.38.45:106][129]PIE: Server logged in
+[2024.01.01-05.38.45:107][129]PIE: Play in editor total start time 0.101 seconds.
+[2024.01.01-05.38.59:553][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.38.59:553][796]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.38.59:553][796]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.38.59:553][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.38.59:562][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.38.59:572][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.38.59:590][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.38.59:590][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.38.59:592][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.38.59:597][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.01-05.38.59:631][797]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.01.01-05.39.01:519][  2]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.40.09:607][911]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.40.09:649][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.01.01-05.41.53:289][860]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.41.53:333][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.01.01-05.41.54:296][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2024.01.01-05.41.54:312][966]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper0D14A480482337136FF68D8CEDE30BBC.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2024.01.01-05.41.54:325][966]AssetCheck: New page: Asset Save: BP_Bumper
+[2024.01.01-05.41.54:325][966]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2024.01.01-05.41.55:971][142]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.41.56:941][237]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.41.56:945][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.41.56:946][237]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:41:56 am)
+[2024.01.01-05.41.56:946][237]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.41.56:950][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004477s)
+[2024.01.01-05.41.56:951][237]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.41.56:951][237]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2024.01.01-05.41.56:951][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.005579s)
+[2024.01.01-05.41.56:971][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.01.01-05.41.56:973][237]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.41.56:974][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.41.56:974][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.41.56:974][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.41.56:974][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.41.56:974][237]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.41.56:978][237]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.41.56:978][237]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.41.56:987][237]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.41.56:988][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.41.56:988][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.41.56:988][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.41.56:988][237]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.41.56:988][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.41.56:988][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.41.56:989][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.41.56:989][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.41.56:989][237]LogInit: FAudioDevice initialized.
+[2024.01.01-05.41.56:989][237]LogAudio: Display: Audio Device (ID: 13) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.41.56:998][237]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.41.57:000][237]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.41.57
+[2024.01.01-05.41.57:000][237]LogWorld: Bringing up level for play took: 0.001022
+[2024.01.01-05.41.57:000][237]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2024.01.01-05.41.57:002][237]PIE: Server logged in
+[2024.01.01-05.41.57:002][237]PIE: Play in editor total start time 0.058 seconds.
+[2024.01.01-05.42.05:079][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.42.05:079][162]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.42.05:080][162]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.42.05:080][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.42.05:094][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.42.05:104][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.42.05:121][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.42.05:123][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.42.05:124][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.42.05:128][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.01-05.42.05:162][163]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.01.01-05.44.04:167][177]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.44.04:214][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.01.01-05.44.07:011][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2024.01.01-05.44.07:029][487]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper2B79BC1143DCD7011DC988981F666876.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2024.01.01-05.44.07:044][487]AssetCheck: New page: Asset Save: BP_Bumper
+[2024.01.01-05.44.07:044][487]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2024.01.01-05.44.09:024][715]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.44.09:029][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.44.09:029][715]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:44:09 am)
+[2024.01.01-05.44.09:029][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.44.09:034][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004973s)
+[2024.01.01-05.44.09:035][715]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.44.09:035][715]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2024.01.01-05.44.09:035][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006096s)
+[2024.01.01-05.44.09:056][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.01.01-05.44.09:059][715]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.44.09:059][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.44.09:059][715]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.44.09:059][715]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.44.09:059][715]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.44.09:059][715]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.44.09:064][715]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.44.09:064][715]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.44.09:074][715]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.44.09:074][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.44.09:074][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.44.09:074][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.44.09:075][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.44.09:075][715]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.44.09:075][715]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.44.09:076][715]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.44.09:076][715]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.44.09:076][715]LogInit: FAudioDevice initialized.
+[2024.01.01-05.44.09:076][715]LogAudio: Display: Audio Device (ID: 14) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.44.09:083][715]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.44.09:084][715]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.44.09
+[2024.01.01-05.44.09:085][715]LogWorld: Bringing up level for play took: 0.001097
+[2024.01.01-05.44.09:085][715]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.01.01-05.44.09:087][715]PIE: Server logged in
+[2024.01.01-05.44.09:088][715]PIE: Play in editor total start time 0.06 seconds.
+[2024.01.01-05.44.10:017][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.44.10:017][792]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.44.10:017][792]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.44.10:018][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.44.10:030][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.44.10:039][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.44.10:057][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.44.10:057][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.44.10:058][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.44.10:060][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.44.10:063][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.01-05.44.10:096][793]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.01.01-05.44.57:305][659]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.44.57:345][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.01.01-05.44.57:912][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2024.01.01-05.44.57:930][718]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper40ED5CB74552C5F204FD12965E76A544.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2024.01.01-05.44.57:942][718]AssetCheck: New page: Asset Save: BP_Bumper
+[2024.01.01-05.44.57:943][718]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2024.01.01-05.44.59:882][942]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.44.59:887][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.44.59:887][942]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:44:59 am)
+[2024.01.01-05.44.59:887][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.44.59:893][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006166s)
+[2024.01.01-05.44.59:894][942]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.44.59:895][942]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2024.01.01-05.44.59:895][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.007467s)
+[2024.01.01-05.44.59:915][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.01.01-05.44.59:917][942]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.44.59:917][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.44.59:917][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.44.59:917][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.44.59:917][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.44.59:917][942]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.44.59:922][942]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.44.59:922][942]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.44.59:931][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.44.59:931][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.44.59:932][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.44.59:932][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.44.59:932][942]LogInit: FAudioDevice initialized.
+[2024.01.01-05.44.59:932][942]LogAudio: Display: Audio Device (ID: 15) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.44.59:937][942]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.44.59:939][942]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.44.59
+[2024.01.01-05.44.59:939][942]LogWorld: Bringing up level for play took: 0.001010
+[2024.01.01-05.44.59:939][942]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2024.01.01-05.44.59:940][942]PIE: Server logged in
+[2024.01.01-05.44.59:941][942]PIE: Play in editor total start time 0.055 seconds.
+[2024.01.01-05.45.25:727][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.25:727][934]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.25:727][934]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.45.25:727][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.25:742][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.45.25:752][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.25:768][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.45.25:768][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.25:770][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.25:771][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.25:775][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.01.01-05.45.25:813][935]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.01.01-05.45.28:422][217]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_C (BP_Ball)
+[2024.01.01-05.45.32:417][638]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.45.32:422][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.45.32:422][638]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:45:32 am)
+[2024.01.01-05.45.32:422][638]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.32:426][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004767s)
+[2024.01.01-05.45.32:427][638]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.45.32:428][638]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2024.01.01-05.45.32:428][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.005882s)
+[2024.01.01-05.45.32:447][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.01-05.45.32:452][638]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.45.32:452][638]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.45.32:452][638]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.45.32:452][638]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.45.32:452][638]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.45.32:452][638]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.45.32:457][638]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.45.32:457][638]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.45.32:492][638]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.45.32:492][638]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.45.32:493][638]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.45.32:493][638]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.45.32:493][638]LogInit: FAudioDevice initialized.
+[2024.01.01-05.45.32:493][638]LogAudio: Display: Audio Device (ID: 16) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.45.32:499][638]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.45.32:500][638]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.45.32
+[2024.01.01-05.45.32:500][638]LogWorld: Bringing up level for play took: 0.001013
+[2024.01.01-05.45.32:500][638]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2024.01.01-05.45.32:502][638]PIE: Server logged in
+[2024.01.01-05.45.32:502][638]PIE: Play in editor total start time 0.082 seconds.
+[2024.01.01-05.45.36:907][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.36:907][140]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.36:907][140]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.45.36:907][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.36:916][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.45.36:928][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.36:944][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.45.36:944][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.36:945][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.36:947][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.36:950][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.45.36:983][141]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.01.01-05.45.37:446][193]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2024.01.01-05.45.41:487][664]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.45.41:491][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.45.41:492][664]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:45:41 am)
+[2024.01.01-05.45.41:492][664]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.41:497][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004890s)
+[2024.01.01-05.45.41:497][664]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.45.41:498][664]LogPlayLevel: PIE: World Init took: (0.001104s)
+[2024.01.01-05.45.41:498][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006101s)
+[2024.01.01-05.45.41:517][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.01-05.45.41:520][664]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.45.41:520][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.45.41:520][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.45.41:521][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.45.41:521][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.45.41:521][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.45.41:521][664]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.45.41:525][664]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.45.41:525][664]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.45.41:534][664]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.45.41:534][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.45.41:534][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.45.41:534][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.45.41:535][664]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.45.41:535][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.45.41:535][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.45.41:536][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.45.41:536][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.45.41:536][664]LogInit: FAudioDevice initialized.
+[2024.01.01-05.45.41:536][664]LogAudio: Display: Audio Device (ID: 17) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.45.41:543][664]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.45.41:544][664]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.45.41
+[2024.01.01-05.45.41:545][664]LogWorld: Bringing up level for play took: 0.001102
+[2024.01.01-05.45.41:545][664]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2024.01.01-05.45.41:547][664]PIE: Server logged in
+[2024.01.01-05.45.41:548][664]PIE: Play in editor total start time 0.057 seconds.
+[2024.01.01-05.45.44:736][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.44:736][ 12]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.44:737][ 12]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.45.44:737][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.44:744][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.45.44:755][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.45.44:771][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.45.44:772][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.44:773][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.45.44:775][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.45.44:778][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.01-05.45.44:809][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.01.01-05.45.49:959][620]Cmd: TRANSACTION UNDO
+[2024.01.01-05.45.49:959][620]LogEditorTransaction: Undo Move Actors
+[2024.01.01-05.45.50:070][620]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 38C771C7EC53BBD1629AE8BBFCE016D7DCD877DB), compiling. 
+[2024.01.01-05.45.50:103][620]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.01-05.45.50:103][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.45.50:103][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.45.50:199][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.01-05.45.50:199][622]LogShaderCompilers: Display: Total job queries 847, among them cache hits 649 (76.62%)
+[2024.01.01-05.45.50:200][622]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 98 distinct outputs (52.13%)
+[2024.01.01-05.45.50:200][622]LogShaderCompilers: Display: RAM used: 0.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2024.01.01-05.45.50:200][622]LogShaderCompilers: Display: ================================================
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: Base pass shader: 124 instructions
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.45.50:225][623]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.45.54:591][105]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper9)
+[2024.01.01-05.45.55:450][205]Cmd: DELETE
+[2024.01.01-05.45.55:451][205]Cmd: ACTOR DELETE
+[2024.01.01-05.45.55:453][205]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2024.01.01-05.45.55:473][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.01-05.45.55:478][205]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.01.01-05.45.56:520][329]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.45.56:525][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.45.56:525][329]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:45:56 am)
+[2024.01.01-05.45.56:525][329]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.45.56:530][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004839s)
+[2024.01.01-05.45.56:531][329]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.45.56:531][329]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2024.01.01-05.45.56:531][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.005924s)
+[2024.01.01-05.45.56:549][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.01-05.45.56:550][329]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.45.56:550][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.45.56:550][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.45.56:550][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.45.56:550][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.45.56:550][329]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.45.56:555][329]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.45.56:555][329]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.45.56:563][329]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.45.56:563][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.45.56:564][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.45.56:564][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.45.56:564][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.45.56:564][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.45.56:564][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.45.56:565][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.45.56:565][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.45.56:565][329]LogInit: FAudioDevice initialized.
+[2024.01.01-05.45.56:565][329]LogAudio: Display: Audio Device (ID: 18) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.45.56:574][329]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.45.56:575][329]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.45.56
+[2024.01.01-05.45.56:576][329]LogWorld: Bringing up level for play took: 0.001119
+[2024.01.01-05.45.56:576][329]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2024.01.01-05.45.56:577][329]PIE: Server logged in
+[2024.01.01-05.45.56:578][329]PIE: Play in editor total start time 0.054 seconds.
+[2024.01.01-05.46.02:894][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper8)
+[2024.01.01-05.46.07:617][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.46.07:617][578]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.46.07:617][578]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.46.07:618][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.46.07:624][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.46.07:634][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.46.07:651][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.46.07:651][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.46.07:652][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.46.07:657][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.01-05.46.07:689][579]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.01-05.46.09:013][732]Cmd: DELETE
+[2024.01.01-05.46.09:013][732]Cmd: ACTOR DELETE
+[2024.01.01-05.46.09:015][732]LogEditorActor: Deleted Actor: BP_Bumper_C
+[2024.01.01-05.46.09:033][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.46.09:036][732]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2024.01.01-05.47.27:035][701]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.01-05.47.27:054][701]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.01-05.47.28:397][859]LogContentBrowser: Attempting asset rename: NewFolder -> Sounds
+[2024.01.01-05.47.28:397][859]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.01-05.47.35:875][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Reset02.WAV)
+[2024.01.01-05.47.35:974][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Rolling01.WAV)
+[2024.01.01-05.47.36:008][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\SP08_Convoy_Chase_exp.WAV)
+[2024.01.01-05.47.36:060][204]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop.mp3)
+[2024.01.01-05.47.36:065][204]LogAssetTools: Warning: Failed to import 'C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.pkf'. Unknown extension 'pkf'.
+[2024.01.01-05.47.36:133][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.wav)
+[2024.01.01-05.47.36:154][204]Error: Unable to read wave file 'victoryMusic_loop_01' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2024.01.01-05.47.36:155][204]Error: Unrecognized sound format 'wav' in victoryMusic_loop_01
+[2024.01.01-05.47.38:109][204]LogSlate: Window 'Message' being destroyed
+[2024.01.01-05.47.38:114][204]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.wav'. Failed to create asset '/Game/Assets/Sounds/victoryMusic_loop_01'.
+Please see Output Log for details.
+[2024.01.01-05.47.38:114][204]LogAssetTools: Warning: Failed to import 'C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01.wav'. Failed to create asset '/Game/Assets/Sounds/victoryMusic_loop_01'.
+Please see Output Log for details.
+[2024.01.01-05.47.38:121][204]LogAssetTools: Warning: Failed to import 'C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01_01.pkf'. Unknown extension 'pkf'.
+[2024.01.01-05.47.38:157][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\victoryMusic_loop_01_01.wav)
+[2024.01.01-05.47.38:209][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Death_02.WAV)
+[2024.01.01-05.47.38:211][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Death_03_m1.WAV)
+[2024.01.01-05.47.38:212][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Fire_02_m1.WAV)
+[2024.01.01-05.47.38:214][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Arcade_Enemy_Fire_03_m1.WAV)
+[2024.01.01-05.47.38:215][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Arcade_GameStart.WAV)
+[2024.01.01-05.47.38:218][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Bell_Impact01.WAV)
+[2024.01.01-05.47.38:219][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Impact_Punch_High01.WAV)
+[2024.01.01-05.47.38:220][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Impact_Punch_High02.WAV)
+[2024.01.01-05.47.38:222][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Impact_Punch_High03.WAV)
+[2024.01.01-05.47.38:223][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Impact_Punch_High04.WAV)
+[2024.01.01-05.47.38:225][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallAdded.WAV)
+[2024.01.01-05.47.38:226][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallDropFromSlide.WAV)
+[2024.01.01-05.47.38:228][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallKickout.WAV)
+[2024.01.01-05.47.38:231][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallLaunch.WAV)
+[2024.01.01-05.47.38:233][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallLoose.WAV)
+[2024.01.01-05.47.38:235][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BallRelease.WAV)
+[2024.01.01-05.47.38:237][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Bell01.WAV)
+[2024.01.01-05.47.38:239][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact01.WAV)
+[2024.01.01-05.47.38:240][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact02.WAV)
+[2024.01.01-05.47.38:241][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact03.WAV)
+[2024.01.01-05.47.38:243][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact04.WAV)
+[2024.01.01-05.47.38:244][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_BumperImpact05.WAV)
+[2024.01.01-05.47.38:246][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Error01.WAV)
+[2024.01.01-05.47.38:247][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_FlipperLeft.WAV)
+[2024.01.01-05.47.38:249][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_FlipperRight.WAV)
+[2024.01.01-05.47.38:251][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Popup01.WAV)
+[2024.01.01-05.47.38:252][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Popup02.WAV)
+[2024.01.01-05.47.38:253][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Popup03.WAV)
+[2024.01.01-05.47.38:255][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\XxYos\Downloads\PinballAssets\PinballAssets\Sounds\Pinball_Reset01.WAV)
+[2024.01.01-05.47.47:350][267]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_BumperImpact02...
+[2024.01.01-05.47.47:350][267]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02 will be modified from 40 to 40.
+[2024.01.01-05.47.47:478][267]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29216 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02.
+[2024.01.01-05.47.55:658][181]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_BumperImpact01...
+[2024.01.01-05.47.55:659][181]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01 will be modified from 40 to 40.
+[2024.01.01-05.47.55:665][181]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 49794 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01.
+[2024.01.01-05.47.56:307][247]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_BumperImpact03...
+[2024.01.01-05.47.56:308][247]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03 will be modified from 40 to 40.
+[2024.01.01-05.47.56:312][247]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 17620 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03.
+[2024.01.01-05.47.56:901][310]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_BumperImpact04...
+[2024.01.01-05.47.56:901][310]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04 will be modified from 40 to 40.
+[2024.01.01-05.47.56:907][310]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 34740 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04.
+[2024.01.01-05.47.57:506][375]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_BumperImpact05...
+[2024.01.01-05.47.57:506][375]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05 will be modified from 40 to 40.
+[2024.01.01-05.47.57:513][375]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 55374 while cooking SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05.
+[2024.01.01-05.47.58:100][436]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_Error01...
+[2024.01.01-05.47.58:100][436]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01 will be modified from 40 to 40.
+[2024.01.01-05.47.58:150][436]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 165768 while cooking SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01.
+[2024.01.01-05.48.00:227][634]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_FlipperLeft...
+[2024.01.01-05.48.00:227][634]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft will be modified from 40 to 40.
+[2024.01.01-05.48.00:240][634]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 117596 while cooking SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft.
+[2024.01.01-05.48.02:905][907]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Pinball_Bell01...
+[2024.01.01-05.48.02:905][907]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01 will be modified from 40 to 40.
+[2024.01.01-05.48.02:919][907]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 131744 while cooking SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01.
+[2024.01.01-05.48.33:980][733]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2024.01.01-05.48.33:998][733]LogContentBrowser: Creating deferred item: NewSoundCue
+[2024.01.01-05.48.34:803][816]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1563)].
+[2024.01.01-05.48.34:803][816]LogContentBrowser: Attempting asset rename: NewSoundCue -> NewSoundCue
+[2024.01.01-05.48.34:803][816]LogContentBrowser: End creating deferred item NewSoundCue
+[2024.01.01-05.48.34:832][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.01-05.48.34:854][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Test_InitalCreation_Map_Auto4FD03179B41CEA7AAF2BF4D92F8452B05.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Test_InitalCreation_Map_Auto4.umap'
+[2024.01.01-05.48.34:855][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test_InitalCreation_Map' took 0.044
+[2024.01.01-05.48.34:855][816]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2024.01.01-05.48.34:856][816]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Bumper] ([2] browsable assets)...
+[2024.01.01-05.48.34:864][816]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper]
+[2024.01.01-05.48.34:864][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Bumper]
+[2024.01.01-05.48.34:864][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.01.01-05.48.34:883][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper_Auto431EDC7494ED19695F15CE0B9E08C2043.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Blueprints/BP_Bumper_Auto4.uasset'
+[2024.01.01-05.48.34:884][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Reset02] ([1] browsable assets)...
+[2024.01.01-05.48.34:887][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Reset02.Pinball_Reset02]
+[2024.01.01-05.48.34:887][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Reset02]
+[2024.01.01-05.48.34:894][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Reset02_Auto462ADD2B646B6054F128EB6A1C96FD24A.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Reset02_Auto4.uasset'
+[2024.01.01-05.48.34:895][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Rolling01] ([1] browsable assets)...
+[2024.01.01-05.48.34:898][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Rolling01.Pinball_Rolling01]
+[2024.01.01-05.48.34:898][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Rolling01]
+[2024.01.01-05.48.34:900][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Rolling01_Auto44CBD36104FAADED7962AA28C1757662F.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Rolling01_Auto4.uasset'
+[2024.01.01-05.48.34:900][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/SP08_Convoy_Chase_exp] ([1] browsable assets)...
+[2024.01.01-05.48.34:912][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/SP08_Convoy_Chase_exp.SP08_Convoy_Chase_exp]
+[2024.01.01-05.48.34:912][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/SP08_Convoy_Chase_exp]
+[2024.01.01-05.48.34:920][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/SP08_Convoy_Chase_exp_Auto493BAAC3F4E4355555E4B6097B833E88E.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/SP08_Convoy_Chase_exp_Auto4.uasset'
+[2024.01.01-05.48.34:920][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Sounds/victoryMusic_loop] ([1] browsable assets)...
+[2024.01.01-05.48.34:921][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/victoryMusic_loop]
+[2024.01.01-05.48.34:921][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/victoryMusic_loop_Auto4D64DA8AA45011FEC231FE28ACF933BC3.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/victoryMusic_loop_Auto4.uasset'
+[2024.01.01-05.48.34:922][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/victoryMusic_loop_01_01] ([1] browsable assets)...
+[2024.01.01-05.48.34:935][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/victoryMusic_loop_01_01.victoryMusic_loop_01_01]
+[2024.01.01-05.48.34:935][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/victoryMusic_loop_01_01]
+[2024.01.01-05.48.34:975][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/victoryMusic_loop_01_01_Auto4C7A3020F4911188BCEC154A228111BA3.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/victoryMusic_loop_01_01_Auto4.uasset'
+[2024.01.01-05.48.34:976][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Death_02] ([1] browsable assets)...
+[2024.01.01-05.48.34:979][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_02.Arcade_Enemy_Death_02]
+[2024.01.01-05.48.34:979][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Death_02]
+[2024.01.01-05.48.34:981][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Arcade_Enemy_Death_02_Auto4CB11E26E48379A6E40A63C8944C3BC67.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Death_02_Auto4.uasset'
+[2024.01.01-05.48.34:982][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1] ([1] browsable assets)...
+[2024.01.01-05.48.34:983][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Death_03_m1.Arcade_Enemy_Death_03_m1]
+[2024.01.01-05.48.34:983][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1]
+[2024.01.01-05.48.34:985][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Arcade_Enemy_Death_03_m1_Auto4493AABF1422CF82BD609A2A0260B919F.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Death_03_m1_Auto4.uasset'
+[2024.01.01-05.48.34:986][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1] ([1] browsable assets)...
+[2024.01.01-05.48.34:988][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1.Arcade_Enemy_Fire_02_m1]
+[2024.01.01-05.48.34:988][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1]
+[2024.01.01-05.48.34:990][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Arcade_Enemy_Fire_02_m1_Auto48C8DB4F84406E2C7B33BA4ACF8E2FDBF.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Fire_02_m1_Auto4.uasset'
+[2024.01.01-05.48.34:990][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1] ([1] browsable assets)...
+[2024.01.01-05.48.34:993][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1.Arcade_Enemy_Fire_03_m1]
+[2024.01.01-05.48.34:993][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1]
+[2024.01.01-05.48.34:996][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Arcade_Enemy_Fire_03_m1_Auto470911E4941BC93F9375B8CA7C2BDB8DD.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_Enemy_Fire_03_m1_Auto4.uasset'
+[2024.01.01-05.48.34:997][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Arcade_GameStart] ([1] browsable assets)...
+[2024.01.01-05.48.35:000][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Arcade_GameStart.Arcade_GameStart]
+[2024.01.01-05.48.35:000][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Arcade_GameStart]
+[2024.01.01-05.48.35:002][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Arcade_GameStart_Auto49A7EF09E4ACDE8D80D286DA46E2F768D.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Arcade_GameStart_Auto4.uasset'
+[2024.01.01-05.48.35:002][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Bell_Impact01] ([1] browsable assets)...
+[2024.01.01-05.48.35:005][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Bell_Impact01.Bell_Impact01]
+[2024.01.01-05.48.35:005][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Bell_Impact01]
+[2024.01.01-05.48.35:007][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Bell_Impact01_Auto4B915E1324F89498C8563C7A2F24E3884.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Bell_Impact01_Auto4.uasset'
+[2024.01.01-05.48.35:008][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High01] ([1] browsable assets)...
+[2024.01.01-05.48.35:010][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01]
+[2024.01.01-05.48.35:010][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High01]
+[2024.01.01-05.48.35:012][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Impact_Punch_High01_Auto4E03538DF4C026301ECBCD08CCC5B3B4D.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High01_Auto4.uasset'
+[2024.01.01-05.48.35:013][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High02] ([1] browsable assets)...
+[2024.01.01-05.48.35:016][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02]
+[2024.01.01-05.48.35:016][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High02]
+[2024.01.01-05.48.35:018][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Impact_Punch_High02_Auto4E7361E9543C14C6709A49A97498A2A4C.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High02_Auto4.uasset'
+[2024.01.01-05.48.35:019][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High03] ([1] browsable assets)...
+[2024.01.01-05.48.35:021][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03]
+[2024.01.01-05.48.35:021][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High03]
+[2024.01.01-05.48.35:023][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Impact_Punch_High03_Auto4206D2CEE431BF18F28419CA0E14CAB56.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High03_Auto4.uasset'
+[2024.01.01-05.48.35:023][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Impact_Punch_High04] ([1] browsable assets)...
+[2024.01.01-05.48.35:025][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04]
+[2024.01.01-05.48.35:025][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Impact_Punch_High04]
+[2024.01.01-05.48.35:027][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Impact_Punch_High04_Auto47052AA574AF6DC66C850E4B1FA963A9C.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Impact_Punch_High04_Auto4.uasset'
+[2024.01.01-05.48.35:028][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallAdded] ([1] browsable assets)...
+[2024.01.01-05.48.35:030][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallAdded.Pinball_BallAdded]
+[2024.01.01-05.48.35:030][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallAdded]
+[2024.01.01-05.48.35:032][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallAdded_Auto45167690A426CF39F95E20091588815EA.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallAdded_Auto4.uasset'
+[2024.01.01-05.48.35:032][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallDropFromSlide] ([1] browsable assets)...
+[2024.01.01-05.48.35:035][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallDropFromSlide.Pinball_BallDropFromSlide]
+[2024.01.01-05.48.35:035][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallDropFromSlide]
+[2024.01.01-05.48.35:037][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallDropFromSlide_Auto456E85A174CCEF5DADBC1E4B805E4387E.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallDropFromSlide_Auto4.uasset'
+[2024.01.01-05.48.35:037][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallKickout] ([1] browsable assets)...
+[2024.01.01-05.48.35:040][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallKickout.Pinball_BallKickout]
+[2024.01.01-05.48.35:040][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallKickout]
+[2024.01.01-05.48.35:042][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallKickout_Auto48D44248F40C09DDB051E6FA3B614695A.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallKickout_Auto4.uasset'
+[2024.01.01-05.48.35:042][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallLaunch] ([1] browsable assets)...
+[2024.01.01-05.48.35:045][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallLaunch.Pinball_BallLaunch]
+[2024.01.01-05.48.35:045][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallLaunch]
+[2024.01.01-05.48.35:046][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallLaunch_Auto4BCA9F687438401E005D30E9384092142.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallLaunch_Auto4.uasset'
+[2024.01.01-05.48.35:047][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallLoose] ([1] browsable assets)...
+[2024.01.01-05.48.35:049][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallLoose.Pinball_BallLoose]
+[2024.01.01-05.48.35:049][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallLoose]
+[2024.01.01-05.48.35:051][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallLoose_Auto49E5053574602C75D69F60E973600BA7C.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallLoose_Auto4.uasset'
+[2024.01.01-05.48.35:051][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BallRelease] ([1] browsable assets)...
+[2024.01.01-05.48.35:054][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BallRelease.Pinball_BallRelease]
+[2024.01.01-05.48.35:054][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BallRelease]
+[2024.01.01-05.48.35:056][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BallRelease_Auto4161303F042B1B5A549CBFC928236B47D.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BallRelease_Auto4.uasset'
+[2024.01.01-05.48.35:056][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Bell01] ([1] browsable assets)...
+[2024.01.01-05.48.35:059][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Bell01.Pinball_Bell01]
+[2024.01.01-05.48.35:059][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Bell01]
+[2024.01.01-05.48.35:060][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Bell01_Auto4CD1D71BA4AEEE4351F1C5D8421E9ECAE.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Bell01_Auto4.uasset'
+[2024.01.01-05.48.35:061][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact01] ([1] browsable assets)...
+[2024.01.01-05.48.35:063][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact01.Pinball_BumperImpact01]
+[2024.01.01-05.48.35:063][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact01]
+[2024.01.01-05.48.35:065][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BumperImpact01_Auto4CA84A0934350251E0B40D88FAD1C82F7.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact01_Auto4.uasset'
+[2024.01.01-05.48.35:065][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact02] ([1] browsable assets)...
+[2024.01.01-05.48.35:067][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact02.Pinball_BumperImpact02]
+[2024.01.01-05.48.35:067][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact02]
+[2024.01.01-05.48.35:069][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BumperImpact02_Auto4412E5DCE42CF39894804F0A976637F14.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact02_Auto4.uasset'
+[2024.01.01-05.48.35:070][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact03] ([1] browsable assets)...
+[2024.01.01-05.48.35:072][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact03.Pinball_BumperImpact03]
+[2024.01.01-05.48.35:072][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact03]
+[2024.01.01-05.48.35:074][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BumperImpact03_Auto4B2DBE0214AA4CC36921E11ABE850381C.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact03_Auto4.uasset'
+[2024.01.01-05.48.35:075][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact04] ([1] browsable assets)...
+[2024.01.01-05.48.35:077][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact04.Pinball_BumperImpact04]
+[2024.01.01-05.48.35:077][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact04]
+[2024.01.01-05.48.35:079][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BumperImpact04_Auto4D67F4F6F4174CFC503A3F0A37849D0A6.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact04_Auto4.uasset'
+[2024.01.01-05.48.35:079][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_BumperImpact05] ([1] browsable assets)...
+[2024.01.01-05.48.35:081][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_BumperImpact05.Pinball_BumperImpact05]
+[2024.01.01-05.48.35:081][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_BumperImpact05]
+[2024.01.01-05.48.35:083][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_BumperImpact05_Auto4214CC35E4C42882708342D999C98DF55.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_BumperImpact05_Auto4.uasset'
+[2024.01.01-05.48.35:084][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Error01] ([1] browsable assets)...
+[2024.01.01-05.48.35:086][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Error01.Pinball_Error01]
+[2024.01.01-05.48.35:086][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Error01]
+[2024.01.01-05.48.35:088][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Error01_Auto41ABA625B44D081E9EA0C24843949CF5E.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Error01_Auto4.uasset'
+[2024.01.01-05.48.35:088][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_FlipperLeft] ([1] browsable assets)...
+[2024.01.01-05.48.35:090][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_FlipperLeft.Pinball_FlipperLeft]
+[2024.01.01-05.48.35:090][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_FlipperLeft]
+[2024.01.01-05.48.35:092][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_FlipperLeft_Auto4BB7F1A0C4B037CC18C4A38A51178811F.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_FlipperLeft_Auto4.uasset'
+[2024.01.01-05.48.35:093][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_FlipperRight] ([1] browsable assets)...
+[2024.01.01-05.48.35:095][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_FlipperRight.Pinball_FlipperRight]
+[2024.01.01-05.48.35:095][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_FlipperRight]
+[2024.01.01-05.48.35:097][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_FlipperRight_Auto43DFC9E8C4198E70235AE8C976FA89454.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_FlipperRight_Auto4.uasset'
+[2024.01.01-05.48.35:098][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup01] ([1] browsable assets)...
+[2024.01.01-05.48.35:100][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup01.Pinball_Popup01]
+[2024.01.01-05.48.35:100][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup01]
+[2024.01.01-05.48.35:102][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Popup01_Auto47ACAB53B4094BC9837DAEDBFD3B5A49F.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup01_Auto4.uasset'
+[2024.01.01-05.48.35:103][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup02] ([1] browsable assets)...
+[2024.01.01-05.48.35:105][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup02.Pinball_Popup02]
+[2024.01.01-05.48.35:105][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup02]
+[2024.01.01-05.48.35:107][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Popup02_Auto43F6B96BD43A045EC907F49ACA824A332.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup02_Auto4.uasset'
+[2024.01.01-05.48.35:108][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Popup03] ([1] browsable assets)...
+[2024.01.01-05.48.35:110][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Popup03.Pinball_Popup03]
+[2024.01.01-05.48.35:110][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Popup03]
+[2024.01.01-05.48.35:112][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Popup03_Auto45FC69986448EC4A9C0BA2B878242E305.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Popup03_Auto4.uasset'
+[2024.01.01-05.48.35:112][816]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Sounds/Pinball_Reset01] ([1] browsable assets)...
+[2024.01.01-05.48.35:115][816]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Assets/Sounds/Pinball_Reset01.Pinball_Reset01]
+[2024.01.01-05.48.35:115][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Sounds/Pinball_Reset01]
+[2024.01.01-05.48.35:116][816]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Pinball_Reset01_Auto42A7CC8754E0DD2B24C2E988D0880D0B4.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Autosaves/Game/Assets/Sounds/Pinball_Reset01_Auto4.uasset'
+[2024.01.01-05.48.35:117][816]LogFileHelpers: Auto-saving content packages took 0.261
+[2024.01.01-05.48.43:163][740]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Assets/Sounds/NewSoundCue.NewSoundCue
+[2024.01.01-05.48.57:625][268]LogContentBrowser: Attempting asset rename: NewSoundCue -> BumperHit
+[2024.01.01-05.48.57:751][268]LogMetaData: Removing '/Game/Assets/Sounds/BumperHit.BumperHit:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Assets/Sounds/NewSoundCue.PackageMetaData'
+[2024.01.01-05.48.57:773][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BumperHit" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/Sounds/BumperHit.uasset" SILENT=true
+[2024.01.01-05.48.57:774][268]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BumperHit0E1F6D314E4DBDE29FAFA2B3EE24605E.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/Sounds/BumperHit.uasset'
+[2024.01.01-05.48.57:832][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.01-05.48.57:862][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.01-05.48.57:880][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.01-05.48.57:913][268]AssetCheck: New page: Asset Save: BumperHit
+[2024.01.01-05.48.57:913][268]LogContentValidation: Display: Validating SoundCue /Game/Assets/Sounds/BumperHit.BumperHit
+[2024.01.01-05.49.06:693][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High01...
+[2024.01.01-05.49.06:693][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01 will be modified from 40 to 40.
+[2024.01.01-05.49.06:700][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 46486 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High01.Impact_Punch_High01.
+[2024.01.01-05.49.29:307][812]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Assets/Sounds/BumperHit.BumperHit was zero and has changed. Consider manually Re-saving the asset
+[2024.01.01-05.49.32:789][228]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High03...
+[2024.01.01-05.49.32:789][228]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03 will be modified from 40 to 40.
+[2024.01.01-05.49.32:795][228]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 38008 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High03.Impact_Punch_High03.
+[2024.01.01-05.49.33:752][343]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High02...
+[2024.01.01-05.49.33:752][343]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02 will be modified from 40 to 40.
+[2024.01.01-05.49.33:758][343]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 42328 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High02.Impact_Punch_High02.
+[2024.01.01-05.49.34:447][426]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Impact_Punch_High04...
+[2024.01.01-05.49.34:447][426]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04 will be modified from 40 to 40.
+[2024.01.01-05.49.34:453][426]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45036 while cooking SoundWave /Game/Assets/Sounds/Impact_Punch_High04.Impact_Punch_High04.
+[2024.01.01-05.50.38:121][550]BlueprintLog: New page: Compile BP_Bumper
+[2024.01.01-05.50.38:165][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.01.01-05.50.38:703][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2024.01.01-05.50.38:723][603]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper221B5C4B402518A956BE7DAEC5C749BD.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2024.01.01-05.50.38:742][603]AssetCheck: New page: Asset Save: BP_Bumper
+[2024.01.01-05.50.38:742][603]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2024.01.01-05.50.40:562][807]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.50.40:567][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.50.40:567][807]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:50:40 am)
+[2024.01.01-05.50.40:567][807]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.40:572][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005090s)
+[2024.01.01-05.50.40:573][807]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.50.40:573][807]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2024.01.01-05.50.40:573][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006416s)
+[2024.01.01-05.50.40:593][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.01.01-05.50.40:594][807]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.50.40:594][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.50.40:594][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.50.40:595][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.50.40:595][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.50.40:595][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.50.40:595][807]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.50.40:600][807]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.50.40:600][807]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.50.40:609][807]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.50.40:609][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.50.40:609][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.50.40:609][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.50.40:610][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.50.40:610][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.50.40:610][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.50.40:611][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.50.40:611][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.50.40:611][807]LogInit: FAudioDevice initialized.
+[2024.01.01-05.50.40:611][807]LogAudio: Display: Audio Device (ID: 19) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.50.40:618][807]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.50.40:619][807]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.50.40
+[2024.01.01-05.50.40:619][807]LogWorld: Bringing up level for play took: 0.001104
+[2024.01.01-05.50.40:619][807]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2024.01.01-05.50.40:621][807]PIE: Server logged in
+[2024.01.01-05.50.40:622][807]PIE: Play in editor total start time 0.056 seconds.
+[2024.01.01-05.50.44:490][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.44:490][107]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.44:491][107]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.50.44:491][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.44:503][107]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.50.44:508][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.44:524][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.50.44:524][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.44:525][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.44:527][107]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.44:530][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.01-05.50.44:574][110]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.01.01-05.50.45:051][165]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.50.45:056][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.50.45:056][165]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:50:45 am)
+[2024.01.01-05.50.45:056][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.45:061][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005137s)
+[2024.01.01-05.50.45:062][165]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.50.45:063][165]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2024.01.01-05.50.45:063][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006361s)
+[2024.01.01-05.50.45:081][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.01-05.50.45:081][165]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.50.45:082][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.50.45:082][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.50.45:082][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.50.45:082][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.50.45:082][165]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.50.45:086][165]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.50.45:086][165]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.50.45:095][165]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.50.45:095][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.50.45:095][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.50.45:095][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.50.45:096][165]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.50.45:096][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.50.45:096][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.50.45:097][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.50.45:097][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.50.45:097][165]LogInit: FAudioDevice initialized.
+[2024.01.01-05.50.45:097][165]LogAudio: Display: Audio Device (ID: 20) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.50.45:101][165]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.50.45:103][165]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.50.45
+[2024.01.01-05.50.45:103][165]LogWorld: Bringing up level for play took: 0.001062
+[2024.01.01-05.50.45:103][165]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2024.01.01-05.50.45:104][165]PIE: Server logged in
+[2024.01.01-05.50.45:105][165]PIE: Play in editor total start time 0.05 seconds.
+[2024.01.01-05.50.48:871][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.48:871][564]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.48:872][564]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.50.48:872][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.48:877][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.50.48:882][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.48:898][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.48:898][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.48:899][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.48:904][564]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.01-05.50.48:946][567]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.01.01-05.50.50:281][700]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2024.01.01-05.50.54:191][106]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.50.54:196][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.50.54:196][106]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:50:54 am)
+[2024.01.01-05.50.54:196][106]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.54:201][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005102s)
+[2024.01.01-05.50.54:202][106]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.50.54:202][106]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2024.01.01-05.50.54:202][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006228s)
+[2024.01.01-05.50.54:222][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.01-05.50.54:225][106]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.50.54:225][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.50.54:225][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.50.54:226][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.50.54:226][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.50.54:226][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.50.54:226][106]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.50.54:230][106]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.50.54:230][106]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.50.54:240][106]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.50.54:240][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.50.54:240][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.50.54:240][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.50.54:241][106]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.50.54:241][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.50.54:241][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.50.54:242][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.50.54:242][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.50.54:242][106]LogInit: FAudioDevice initialized.
+[2024.01.01-05.50.54:242][106]LogAudio: Display: Audio Device (ID: 21) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.50.54:250][106]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.50.54:252][106]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.50.54
+[2024.01.01-05.50.54:252][106]LogWorld: Bringing up level for play took: 0.001139
+[2024.01.01-05.50.54:252][106]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.01.01-05.50.54:254][106]PIE: Server logged in
+[2024.01.01-05.50.54:255][106]PIE: Play in editor total start time 0.06 seconds.
+[2024.01.01-05.50.59:342][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.59:342][661]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.59:342][661]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.50.59:342][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.59:351][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.50.59:362][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.50.59:378][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.50.59:378][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.59:379][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.50.59:381][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.50.59:384][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.01-05.50.59:410][662]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.01.01-05.50.59:759][698]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.50.59:763][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.50.59:763][698]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:50:59 am)
+[2024.01.01-05.50.59:764][698]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.50.59:769][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004981s)
+[2024.01.01-05.50.59:769][698]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.50.59:770][698]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2024.01.01-05.50.59:770][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006160s)
+[2024.01.01-05.50.59:788][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.50.59:789][698]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.50.59:789][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.50.59:789][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.50.59:789][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.50.59:789][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.50.59:789][698]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.50.59:794][698]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.50.59:794][698]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.50.59:802][698]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.50.59:802][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.50.59:802][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.50.59:802][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.50.59:803][698]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.50.59:803][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.50.59:803][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.50.59:804][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.50.59:804][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.50.59:804][698]LogInit: FAudioDevice initialized.
+[2024.01.01-05.50.59:804][698]LogAudio: Display: Audio Device (ID: 22) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.50.59:809][698]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.50.59:810][698]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.50.59
+[2024.01.01-05.50.59:810][698]LogWorld: Bringing up level for play took: 0.001102
+[2024.01.01-05.50.59:810][698]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.01.01-05.50.59:812][698]PIE: Server logged in
+[2024.01.01-05.50.59:813][698]PIE: Play in editor total start time 0.05 seconds.
+[2024.01.01-05.51.05:051][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.05:051][279]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.51.05:052][279]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.51.05:052][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.05:059][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.51.05:070][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.05:086][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.51.05:087][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.05:088][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.05:090][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.05:093][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.01-05.51.05:131][281]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.01-05.51.05:471][312]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.51.05:475][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.51.05:476][312]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:51:05 am)
+[2024.01.01-05.51.05:476][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.51.05:481][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004959s)
+[2024.01.01-05.51.05:482][312]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.51.05:482][312]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2024.01.01-05.51.05:482][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.006152s)
+[2024.01.01-05.51.05:500][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.01.01-05.51.05:501][312]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.51.05:501][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.51.05:501][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.51.05:501][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.51.05:501][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.51.05:501][312]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.51.05:506][312]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.51.05:506][312]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.51.05:514][312]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.51.05:514][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.51.05:514][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.51.05:514][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.51.05:515][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.51.05:515][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.51.05:515][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.51.05:516][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.51.05:516][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.51.05:516][312]LogInit: FAudioDevice initialized.
+[2024.01.01-05.51.05:516][312]LogAudio: Display: Audio Device (ID: 23) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.51.05:523][312]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.51.05:524][312]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.51.05
+[2024.01.01-05.51.05:524][312]LogWorld: Bringing up level for play took: 0.001086
+[2024.01.01-05.51.05:524][312]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2024.01.01-05.51.05:526][312]PIE: Server logged in
+[2024.01.01-05.51.05:526][312]PIE: Play in editor total start time 0.052 seconds.
+[2024.01.01-05.51.06:117][360]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper10)
+[2024.01.01-05.51.09:271][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.09:271][655]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.51.09:272][655]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.51.09:272][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.09:279][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.51.09:291][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.09:308][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.09:308][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.09:309][655]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.09:314][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.51.09:341][656]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.01-05.51.10:217][747]LogTemp: Repeating last play command: Simulate
+[2024.01.01-05.51.10:221][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.01-05.51.10:222][747]PIE: New page: SIE session: Test_InitalCreation_Map (2 Jan 2024, 3:51:10 am)
+[2024.01.01-05.51.10:222][747]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.51.10:226][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004626s)
+[2024.01.01-05.51.10:228][747]LogAIModule: Creating AISystem for world Test_InitalCreation_Map
+[2024.01.01-05.51.10:228][747]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2024.01.01-05.51.10:228][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_InitalCreation_Map.Test_InitalCreation_Map to /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map (0.005668s)
+[2024.01.01-05.51.10:246][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.51.10:248][747]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.01-05.51.10:248][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.01-05.51.10:248][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.01-05.51.10:248][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.01-05.51.10:248][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.01-05.51.10:248][747]LogAudioMixer: Display: Initializing audio mixer.
+[2024.01.01-05.51.10:253][747]LogAudioMixer: Display: 0: FrontLeft
+[2024.01.01-05.51.10:253][747]LogAudioMixer: Display: 1: FrontRight
+[2024.01.01-05.51.10:261][747]LogAudioMixer: Display: Using Audio Device Headphones (6- Astro MixAmp Pro Game)
+[2024.01.01-05.51.10:261][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.01-05.51.10:261][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.01-05.51.10:261][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.01-05.51.10:262][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.01.01-05.51.10:262][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.01.01-05.51.10:262][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.01.01-05.51.10:263][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.01.01-05.51.10:263][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.01.01-05.51.10:263][747]LogInit: FAudioDevice initialized.
+[2024.01.01-05.51.10:263][747]LogAudio: Display: Audio Device (ID: 24) registered with world 'Test_InitalCreation_Map'.
+[2024.01.01-05.51.10:271][747]LogLoad: Game class is 'GameModeBase'
+[2024.01.01-05.51.10:272][747]LogWorld: Bringing World /Game/UEDPIE_0_Test_InitalCreation_Map.Test_InitalCreation_Map up for play (max tick rate 0) at 2024.01.01-16.51.10
+[2024.01.01-05.51.10:272][747]LogWorld: Bringing up level for play took: 0.001075
+[2024.01.01-05.51.10:273][747]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2024.01.01-05.51.10:274][747]PIE: Server logged in
+[2024.01.01-05.51.10:275][747]PIE: Play in editor total start time 0.053 seconds.
+[2024.01.01-05.51.17:942][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.17:942][584]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_InitalCreation_Map
+[2024.01.01-05.51.17:942][584]LogWorld: UWorld::CleanupWorld for Test_InitalCreation_Map, bSessionEnded=true, bCleanupResources=true
+[2024.01.01-05.51.17:942][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.17:949][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.01-05.51.17:961][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.01-05.51.17:976][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.01-05.51.17:976][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.17:978][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.01.01-05.51.17:980][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.01-05.51.17:983][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.01.01-05.51.18:009][585]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.01-05.51.21:707][895]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.51.22:393][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.51.26:708][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_InitalCreation_Map" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.01-05.51.26:727][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.01.01-05.51.26:746][405]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Test_InitalCreation_MapBAF60DA447E9B2682E6EDC9A3E441DBF.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map.umap'
+[2024.01.01-05.51.26:759][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_InitalCreation_Map_BuiltData" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map_BuiltData.uasset" SILENT=true
+[2024.01.01-05.51.26:770][405]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Test_InitalCreation_Map_BuiltDatBF7FA3B147707396655A509BA9DFD81E.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map_BuiltData.uasset'
+[2024.01.01-05.51.26:784][405]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.01-05.51.26:784][405]LogContentValidation: Display: Validating World /Game/Test_InitalCreation_Map.Test_InitalCreation_Map
+[2024.01.01-05.51.26:784][405]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Test_InitalCreation_Map_BuiltData.Test_InitalCreation_Map_BuiltData
+[2024.01.01-05.51.30:800][769]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.51.31:189][806]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.01.01-05.51.36:904][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_InitalCreation_Map" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.01-05.51.36:923][384]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.01-05.51.36:942][384]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Test_InitalCreation_MapE736E3D34AF980C452989F89B3884E78.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map.umap'
+[2024.01.01-05.51.36:947][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_InitalCreation_Map_BuiltData" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map_BuiltData.uasset" SILENT=true
+[2024.01.01-05.51.36:959][384]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/Test_InitalCreation_Map_BuiltDat1F58D82B4A1047E34E4BD7BD90CD86D9.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Test_InitalCreation_Map_BuiltData.uasset'
+[2024.01.01-05.51.36:974][384]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.01-05.51.36:974][384]LogContentValidation: Display: Validating World /Game/Test_InitalCreation_Map.Test_InitalCreation_Map
+[2024.01.01-05.51.36:974][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Test_InitalCreation_Map_BuiltData.Test_InitalCreation_Map_BuiltData
+[2024.01.01-05.51.38:959][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Sounds/BumperHit" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/Sounds/BumperHit.uasset" SILENT=true
+[2024.01.01-05.51.38:961][592]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BumperHitD497EF5E4AC74F0700084EA3948CFFAD.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/Sounds/BumperHit.uasset'
+[2024.01.01-05.51.38:976][592]AssetCheck: New page: Asset Save: BumperHit
+[2024.01.01-05.51.38:976][592]LogContentValidation: Display: Validating SoundCue /Game/Assets/Sounds/BumperHit.BumperHit
+[2024.01.01-05.51.40:789][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2024.01.01-05.51.40:805][792]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/BP_Bumper2F5168C94F886458654B75BA639BE613.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2024.01.01-05.51.40:820][792]AssetCheck: New page: Asset Save: BP_Bumper
+[2024.01.01-05.51.40:820][792]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2024.01.01-05.51.42:230][926]LogMaterialEditor: Saving and Compiling material M_Bumper
+[2024.01.01-05.51.42:504][926]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: B32767639B6312CFC7DB1DEAA926EE56CEA85168), compiling. 
+[2024.01.01-05.51.42:525][926]LogMaterial: Display: Missing cached shadermap for M_Bumper in PCD3D_SM5, Default, SM5 (DDC key hash: 2F0B4286E0CE68F1B7A00E92C6716DB8AFF8855D), compiling. 
+[2024.01.01-05.51.42:544][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.01-05.51.42:663][926]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.01-05.51.42:663][926]LogShaderCompilers: Display: Total job queries 873, among them cache hits 675 (77.32%)
+[2024.01.01-05.51.42:663][926]LogShaderCompilers: Display: Tracking 188 distinct input hashes that result in 98 distinct outputs (52.13%)
+[2024.01.01-05.51.42:663][926]LogShaderCompilers: Display: RAM used: 0.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2024.01.01-05.51.42:663][926]LogShaderCompilers: Display: ================================================
+[2024.01.01-05.51.42:683][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.01-05.51.42:713][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_Bumper" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/M_Bumper.uasset" SILENT=true
+[2024.01.01-05.51.42:719][926]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/M_Bumper495C617141CE53CE45A97482C3DDF2A9.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/M_Bumper.uasset'
+[2024.01.01-05.51.42:732][926]AssetCheck: New page: Asset Save: M_Bumper
+[2024.01.01-05.51.42:732][926]LogContentValidation: Display: Validating Material /Game/Assets/M_Bumper.M_Bumper
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: Base pass shader: 124 instructions
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.01.01-05.51.42:733][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.01-05.51.43:806][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_PopBumperBase" FILE="../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/SM_PopBumperBase.uasset" SILENT=true
+[2024.01.01-05.51.43:820][ 23]LogSavePackage: Moving '../../../../../Game Dev/UE-Course-Pinball/Pinball/Saved/SM_PopBumperBaseF702BDAC4BC806B8599679AFAF34C06F.tmp' to '../../../../../Game Dev/UE-Course-Pinball/Pinball/Content/Assets/SM_PopBumperBase.uasset'
+[2024.01.01-05.51.43:833][ 23]AssetCheck: New page: Asset Save: SM_PopBumperBase
+[2024.01.01-05.51.43:833][ 23]LogContentValidation: Display: Validating StaticMesh /Game/Assets/SM_PopBumperBase.SM_PopBumperBase
